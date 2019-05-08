@@ -1,0 +1,12 @@
+------Test: Add All -------
+Douglas Fir is decorated with star , ribbons , ruffles , lights , red ball , silver ball , blue ball , LED's , with a total cost of: $58.0
+
+
+----Test: More Than One Star -----
+There is already a star on that tree!
+Colorado Blue Spruce is decorated with star , lights , silver ball , with a total cost of: $62.0
+
+
+-----Test: Different Trees ------
+Fraser Fir is decorated with star , lights , with a total cost of: $44.0
+Balsam Fir is decorated with LED's , red ball , with a total cost of: $36.0
